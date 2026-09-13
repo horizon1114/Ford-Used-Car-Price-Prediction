@@ -72,9 +72,7 @@ The analysis examines:
 The following regression models are evaluated:
 
 1. Linear Regression
-2. Ridge Regression
-3. Random Forest Regressor
-4. Gradient Boosting Regressor
+2. Polynomial Regression
 
 ## 📈 Evaluation Metrics
 
