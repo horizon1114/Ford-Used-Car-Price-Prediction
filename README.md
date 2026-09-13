@@ -24,6 +24,12 @@ The project analyzes factors such as:
 - Build regression models
 - Compare model performance
 - Identify the best-performing model
+## Dataset
+
+The data for this project is sourced from the Kaggle dataset:
+
+- **Dataset Link:** [Ford Car Price Prediction](https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction)
+
 
 ## 🛠️ Technologies Used
 
