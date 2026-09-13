@@ -44,21 +44,21 @@ The data for this project is sourced from the Kaggle dataset:
 ## 🔄 Project Workflow
 
 Data Collection
-↓
+|
 Data Cleaning
-↓
+|
 Exploratory Data Analysis
-↓
+|
 Feature Engineering
-↓
+|
 Feature Encoding
-↓
+|
 Train/Test Split
-↓
+|
 Model Training
-↓
+|
 Model Evaluation
-↓
+|
 Model Comparison
 
 ## 📊 Exploratory Data Analysis
